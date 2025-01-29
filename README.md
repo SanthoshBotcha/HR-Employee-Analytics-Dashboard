@@ -17,7 +17,7 @@ Tracking and understanding employee attendance is crucial for making data-driven
 - **Office Space Optimization**: Analysis for reducing rental costs through efficient space utilization.
 
 ## 📊 Sample Dashboard Preview
-![Dashboard Screenshot]([HR Analytics Dashboard.PNG]
+![Dashboard Screenshot](https://github.com/SanthoshBotcha/HR-Employee-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.PNG)
 
 ## 🛠 Tech Stack & Tools Used
 - **Power BI** - Dashboard creation and data visualization
